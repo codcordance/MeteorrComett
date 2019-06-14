@@ -1,9 +1,0 @@
-[submodule "MeteorrCommett-Client"]
-  path = MeteorrCommett-Client
-  url = ../MeteorrCommett-Client.git
-[submodule "MeteorrCommett-MessagingClient"]
-  path = MeteorrCommett-MessagingClient
-  url = ../MeteorrCommett-MessagingClient.git
-[submodule "MeteorrCommett-Server"]
-  path = MeteorrCommett-Server
-  url = ../MeteorrCommett-Server.git
