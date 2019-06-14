@@ -1,0 +1,9 @@
+[submodule "MeteorrComett-Client"]
+	path = MeteorrComett-Client
+	url = ../MeteorrComett-Client
+[submodule "MeteorrComett-MessagingClient"]
+	path = MeteorrComett-MessagingClient
+	url = ../MeteorrComett-MessagingClient
+[submodule "MeteorrComett-Server"]
+	path = MeteorrComett-Server
+	url = ../MeteorrComett-Server
