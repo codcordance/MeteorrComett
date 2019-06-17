@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="module-output" name="MeteorrComett-Server" />
+      <element id="library" level="project" name="Maven: io.netty:netty-all:4.1.36.Final" />
+      <element id="library" level="project" name="Maven: io.netty:netty-all:javadoc:4.1.36.Final" />
+      <element id="library" level="project" name="Maven: org.jline:jline:3.11.0" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/MeteorrComett-Server/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
