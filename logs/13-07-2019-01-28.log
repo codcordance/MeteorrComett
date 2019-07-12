@@ -1,0 +1,36 @@
+13/07/2019 01:28:57 [INFO] > ServerLogger initialization succeed!
+13/07/2019 01:28:57 [INFO] > Initializing CommandManager...
+13/07/2019 01:28:58 [INFO] > CommandManager initialization succeed!
+13/07/2019 01:28:58 [INFO] > Initializing CommandExecutor...
+13/07/2019 01:28:58 [INFO] > Starting executor...
+13/07/2019 01:28:59 [INFO] > Executor successfully started!
+13/07/2019 01:29:00 [INFO] > CommandExecutor initialization succeed!
+13/07/2019 01:29:00 [INFO] > Initializing Commands...
+13/07/2019 01:29:00 [INFO] > Registering command echo with class class net.meteorr.dev.meteorrcomett.server.commands.EchoCommand...
+13/07/2019 01:29:00 [INFO] > Successfully registered command echo with class class net.meteorr.dev.meteorrcomett.server.commands.EchoCommand!
+13/07/2019 01:29:00 [INFO] > Registering command listthread with class class net.meteorr.dev.meteorrcomett.server.commands.ListThreadCommand...
+13/07/2019 01:29:00 [INFO] > Successfully registered command listthread with class class net.meteorr.dev.meteorrcomett.server.commands.ListThreadCommand!
+13/07/2019 01:29:00 [INFO] > Registering command stop with class class net.meteorr.dev.meteorrcomett.server.commands.StopCommand...
+13/07/2019 01:29:00 [INFO] > Successfully registered command stop with class class net.meteorr.dev.meteorrcomett.server.commands.StopCommand!
+13/07/2019 01:29:01 [INFO] > Commands initialization succeed!
+13/07/2019 01:29:02 [INFO] > Initializing TerminalReader...
+13/07/2019 01:29:02 [INFO] > Setting terminal reader...
+13/07/2019 01:29:02 [INFO] > Terminal reader successfully set!
+13/07/2019 01:29:02 [INFO] > Initializing terminal reader...
+13/07/2019 01:29:04 [INFO] > Terminal reader successfully initialized!
+13/07/2019 01:29:04 [INFO] > Running terminal started.
+13/07/2019 01:29:05 [INFO] > TerminalReader initialization succeed!
+13/07/2019 01:29:05 [INFO] > You're running the MeteorrComett SERVER
+13/07/2019 01:29:05 [INFO] > Please enter 'yes' below if you agree and want to run it or 'no' otherwise.
+13/07/2019 01:29:07 [INFO] > The input was not 'yes', running program!
+13/07/2019 01:29:07 [INFO] > Initializing MessagingLoggerImplementation...
+13/07/2019 01:29:08 [INFO] > MessagingLoggerImplementation initialization succeed!
+13/07/2019 01:29:14 [DEBUG] > Command input: ok
+13/07/2019 01:29:14 [WARNING] > No command found for : ok
+13/07/2019 01:29:18 [DEBUG] > Command input: listthread
+13/07/2019 01:29:18 [DEBUG] > Il y a actuellement 4 sous-threads: 
+--> MeteorrComettServerCommandExecutor (RUNNABLE): net.meteorr.dev.meteorrcomett.server.console.command.CommandExecutor
+--> MeteorrComettServerTerminalReader (TIMED_WAITING): net.meteorr.dev.meteorrcomett.server.console.terminal.TerminalReader
+--> JLine terminal non blocking reader thread (RUNNABLE): java.lang.Thread
+--> MeteorrComettServerLoggerWritter (TERMINATED): net.meteorr.dev.meteorrcomett.server.console.logger.LoggerWritter
+
