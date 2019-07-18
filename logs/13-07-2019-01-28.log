@@ -29,8 +29,8 @@
 13/07/2019 01:29:14 [WARNING] > No command found for : ok
 13/07/2019 01:29:18 [DEBUG] > Command input: listthread
 13/07/2019 01:29:18 [DEBUG] > Il y a actuellement 4 sous-threads: 
---> MeteorrComettServerCommandExecutor (RUNNABLE): net.meteorr.dev.meteorrcomett.server.console.command.CommandExecutor
---> MeteorrComettServerTerminalReader (TIMED_WAITING): net.meteorr.dev.meteorrcomett.server.console.terminal.TerminalReader
+--> MeteorrComettServerCommandExecutor (RUNNABLE): net.meteorr.dev.meteorrcomett.server.console.command.MeteorrComettServerCommandExecutor
+--> MeteorrComettServerTerminalReader (TIMED_WAITING): net.meteorr.dev.meteorrcomett.server.console.terminal.MeteorrComettServerTerminalReader
 --> JLine terminal non blocking reader thread (RUNNABLE): java.lang.Thread
---> MeteorrComettServerLoggerWritter (TERMINATED): net.meteorr.dev.meteorrcomett.server.console.logger.LoggerWritter
+--> MeteorrComettServerLoggerWritter (TERMINATED): net.meteorr.dev.meteorrcomett.server.console.logger.MeteorrComettServerLoggerWritter
 
